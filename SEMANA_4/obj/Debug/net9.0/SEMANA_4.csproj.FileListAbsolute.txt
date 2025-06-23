@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\bin\Debug\net9.0\SEMANA_4.exe
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\bin\Debug\net9.0\SEMANA_4.deps.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\bin\Debug\net9.0\SEMANA_4.runtimeconfig.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\bin\Debug\net9.0\SEMANA_4.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\bin\Debug\net9.0\SEMANA_4.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.AssemblyInfo.cs
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.sourcelink.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\refint\SEMANA_4.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\SEMANA_4.genruntimeconfig.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_4\obj\Debug\net9.0\ref\SEMANA_4.dll
