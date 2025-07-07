@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.exe
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.deps.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.runtimeconfig.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.AssemblyInfo.cs
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.sourcelink.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\refint\Ejercicio_1.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.genruntimeconfig.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_6\Ejercicio_1\obj\Debug\net9.0\ref\Ejercicio_1.dll
