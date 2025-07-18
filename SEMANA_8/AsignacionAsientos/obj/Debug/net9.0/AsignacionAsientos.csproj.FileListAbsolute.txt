@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.exe
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.deps.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.runtimeconfig.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\bin\Debug\net9.0\AsignacionAsientos.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.AssemblyInfo.cs
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.sourcelink.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\refint\AsignacionAsientos.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\AsignacionAsientos.genruntimeconfig.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_8\AsignacionAsientos\obj\Debug\net9.0\ref\AsignacionAsientos.dll
