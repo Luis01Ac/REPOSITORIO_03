@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\bin\Debug\net9.0\RegistroTorneo.exe
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\bin\Debug\net9.0\RegistroTorneo.deps.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\bin\Debug\net9.0\RegistroTorneo.runtimeconfig.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\bin\Debug\net9.0\RegistroTorneo.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\bin\Debug\net9.0\RegistroTorneo.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.AssemblyInfo.cs
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.sourcelink.json
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\refint\RegistroTorneo.dll
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.pdb
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\RegistroTorneo.genruntimeconfig.cache
+C:\Users\Admin\Documents\REPOSITORIO_03\SEMANA_12\RegistroTorneo\obj\Debug\net9.0\ref\RegistroTorneo.dll
